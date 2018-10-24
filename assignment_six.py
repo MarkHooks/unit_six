@@ -1,3 +1,4 @@
+# mark hooks 10/24/2018
 # this program is to create a list of prime numbers from the maximum number that the user gives
 def user_number():
     """
